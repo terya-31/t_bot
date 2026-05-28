@@ -1,6 +1,6 @@
-tinkoff-investments==1.0.5
+tinkoff-invest
 aiogram==3.17.0
-python-dotenv==1.0.0
+python-dotenv
 beautifulsoup4==4.13.3
 bs4==0.0.2
 et_xmlfile==2.0.0
