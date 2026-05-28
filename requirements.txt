@@ -10,5 +10,5 @@ python-telegram-bot==22.7
 requests==2.33.1
 selenium==4.31.0
 aiogram==3.17.0
-tinkoff-investments==0.2.0b118
+tinkoff-invest==1.0.5
 python-dotenv==1.0.0
